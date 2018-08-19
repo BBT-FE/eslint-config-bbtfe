@@ -53,8 +53,8 @@ MIT
 
 ## Reference
 
-[ESLint Code Guide](https://eslint.org/docs/user-guide/configuring)
-[ESLint Shareable Config](https://eslint.org/docs/developer-guide/shareable-configs)
+- [ESLint Code Guide](https://eslint.org/docs/user-guide/configuring)
+- [ESLint Shareable Config](https://eslint.org/docs/developer-guide/shareable-configs)
 
 ## TODO:
 - [ ] 优化配置(暂时不够完美)
