@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-bbtfe",
+  "version": "1.0.0",
+  "description": "Eslint plugin for BBT-FE developer.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBT-FE/eslint-config-bbtfe.git"
+  },
+  "keywords": [
+    "eslint",
+    "bbtfe"
+  ],
+  "author": "cuiyang673308817@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BBT-FE/eslint-config-bbtfe/issues"
+  },
+  "homepage": "https://github.com/BBT-FE/eslint-config-bbtfe#readme"
+}
