@@ -10,7 +10,7 @@ Eslint plugin for BBT-FE developer.
 安装
 
 ```
-npm install eslint-config-bbtfe eslint
+npm install --save-dev eslint-config-bbtfe eslint
 ```
 
 创建 ".eslintrc.json", 将下面配置复制到文件创建的配置文件中
